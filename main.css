@@ -1,0 +1,26 @@
+    *{
+        margin: 0;
+        padding: 0 ;
+        box-sizing: border-box;  }
+        
+h1 {
+    text-align: center;
+    color: #FF3399;
+    background-color: #FECFFD;
+    }
+ p {
+    text-align: center;
+    font-style: italic;
+    color: #00f;
+ }    
+ .first-heading{
+    font-style: italic;
+    color: red;
+ }
+ .second-heading{
+    font-style: italic;
+    color: #006600;
+ }
+ div { 
+    background-color: #FFFFCC;
+ }
