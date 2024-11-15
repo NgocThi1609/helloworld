@@ -5,22 +5,23 @@
         
 h1 {
     text-align: center;
-    color: #FF3399;
-    background-color: #FECFFD;
-    }
- p {
-    text-align: center;
-    font-style: italic;
-    color: #00f;
- }    
- .first-heading{
-    font-style: italic;
-    color: red;
- }
- .second-heading{
-    font-style: italic;
-    color: #006600;
- }
+    color: green;
+   
+    }   
+class{
+   color: red;
+}
  div { 
-    background-color: #FFFFCC;
+   color: blue;
+   background-color:#CCCCCC;
  }
+ .first{
+   padding-left: 180px;
+ }
+ .second{
+   padding-left: 130px;
+ }
+ .three{
+  padding-left: 65px;
+ }
+ 
